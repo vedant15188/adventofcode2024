@@ -87,7 +87,7 @@ for freq in frequencies:
 
 print("Part 1: ", np.sum(anti_node_grid))
 
-# Reinitialize the anti-node grid
+# Reinitialize the anti-node grid for part 2
 anti_node_grid = np.zeros((len(split), len(split[0])), dtype=int)
 
 def add_anti_nodes2(locations, anti_node_grid):
