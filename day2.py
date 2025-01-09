@@ -1,5 +1,3 @@
-from numpy import dtype
-
 puzzle_input = """48 50 51 53 55 56 59 58
 12 13 14 16 17 17
 10 12 14 17 20 23 26 30
